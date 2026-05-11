@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS smart Extension: calendar integration & OCR scanning, the #1 extension. Includes calendar integration and OCR scanning for a
 
 
 
